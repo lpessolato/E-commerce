@@ -9,7 +9,7 @@ Reprodução de uma loja virtual, com carrinho, calculo da conta, barra de pesqu
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-![](https://drive.google.com/file/d/1LNnhHnZJ-wACAxdQ66aXYaWEcw7r_vzm/view?usp=sharing?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://drive.google.com/file/d/1LNnhHnZJ-wACAxdQ66aXYaWEcw7r_vzm/view?usp=sharing ?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
