@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Inter",sans-serif;
+    border-bottom-style: inset;
+}
+
+.logo{
+    margin-left: 118px;
+}
+
+nav{
+    margin-right: 117px;
+}
+.navegacao{
+    border: none;
+    background-color: white;
+    font-family: "Inter",sans-serif;
+}
+.navegacao:hover{
+    border-bottom-style: solid;
+    cursor: pointer;
+    transition: 100ms;
+    transition-delay: 10ms;
+}
+main{
+    margin-top: 52px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    font-family: "Inter",sans-serif;
+}
+.listaProdutos{
+    width: 968px;
+    height: max-content;
+    font-family: "Inter",sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 296px;
+    height: 408px;
+    background-color: #F5F5F5;
+    font-family: "Inter",sans-serif;
+    margin-bottom: 20px;
+}
+.card:hover{
+    border-style: solid;
+    transition: 100ms;
+    transition-delay: 100ms;
+}
+.usuario{
+    display: flex;
+    flex-direction: column;
+    font-family: "Inter",sans-serif;
+    margin-left: 10px;
+}
+.carrinho{
+    width: 359px;
+    height: 505px;
+    background-color: #F5F5F5;
+    font-family: "Inter",sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.tituloCarrinho{
+    height: 50px;
+    width: 359px;
+    font-family: "Inter",sans-serif;
+    background-color: #2E245E;
+    color: #F5F5F5;
+    font-size: large;
+}
+.produtosCarrinho{
+    width: 359px;
+    height: 329px;
+    background-color: #F5F5F5;
+    overflow-y: scroll;
+
+}
+.divImagemCarrinho{
+    width: 88px;
+    height: 92px;
+}
+.informacoesCarrinho{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 15px;
+    width: 144px;
+    height: 68px;
+}
+.imagemCarrinho{
+    width: 88px;
+    height: 67px;
+}
+.itemCarrinho{
+    width: 289px;
+    height: 92px;
+    background-color: #F5F5F5;
+    display: flex;
+    align-items: center;
+    margin-left: 14px;
+    margin-top: 8px;
+
+}
+.rodapeCarrinho{
+    width: 359px;
+    height: 126px;
+    background-color: #292929;
+}
+.quantidadeCarrinho{
+    width: 300px;
+    height: 24px;
+    color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 14px;
+    margin-top: 24px;
+}
+.totalCarrinho{
+    width: 300px;
+    height: 24px;
+    color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 14px;
+    margin-top: 24px;
+}
+.barraPesquisa{
+    margin-bottom: 27px;
+    display: flex;
+    font-family: "Inter",sans-serif;
+}
+.pesquisar{
+    background-color: #2E245E;
+    color: white;
+    width: 96px;
+    height: 52px;
+    border-style: none;
+    margin-left: 8px;
+    font-family: "Inter",sans-serif;
+}
+.pesquisar:hover{
+    cursor: pointer;
+}
+input{
+    height: 52px;
+    width: 246px;
+    font-family: "Inter",sans-serif;
+    background-color: #F5F5F5;
+    border-style: none;
+}
+input:hover{
+    cursor: text;
+}
+.imagemProduto{
+    background-color: #F5F5F5;
+    width: 296px;
+    height: 154px;
+}
+.categoria{
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 100px;
+    font-family: "Inter",sans-serif;
+    background-color: #2E245E;
+    color: #F5F5F5;
+}
+.nomeProduto{
+    margin-left: 15px;
+    font-family: "Inter",sans-serif;
+}
+.descricao{
+    margin-left: 15px;
+    font-family: "Inter",sans-serif;
+}
+.preco{
+    margin-left: 15px;
+    font-family: "Inter",sans-serif;
+}
+.adicionarCarrinho{
+    margin-left: 15px;
+    width: 161px;
+    border-style: none;
+    margin-top: 15px;
+    font-family: "Inter",sans-serif;
+    background-color: #F5F5F5;
+}
+.adicionarCarrinho:hover{
+    cursor: pointer;
+    border-bottom: solid;
+}
+
+.tituloItem{
+    margin: 0px;
+}
+.precoItem{
+    margin: 0px;
+}
+.remover{
+    margin: 0px;
+}
+.remover:hover{
+    cursor: pointer;
+    border-bottom: solid;
+}
+.carrinhoVazio{
+    text-align: center;
+    margin-top: 128px;
+}
