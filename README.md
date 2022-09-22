@@ -12,4 +12,6 @@ Reprodução de uma loja virtual, com carrinho, calculo da conta, barra de pesqu
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Esse projeto foi criador para simular uma loja virtual com suas principais funcionalidades, como barra de pesquisa, carrinho, soma total dos
+produtos e botões de pesquisa rapida por categoria. O projeto foi criado com html5, estilizado com CSS3 e dinamizado com JavaScript, assim 
+os produtos da loja, são renderizados de forma dinamica de acordo com o arquivo database.js
