@@ -1,16 +1,14 @@
-# Nome do meu projeto
+# E-Commerce
 
-Rápida descrição do objetivo de fazer esse projeto
+Reprodução de uma loja virtual, com carrinho, calculo da conta, barra de pesquisa e botões de busca.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **E-commerce**
+| :label: Tecnologias | javaScript, html, css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://drive.google.com/file/d/1LNnhHnZJ-wACAxdQ66aXYaWEcw7r_vzm/view?usp=sharing?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
